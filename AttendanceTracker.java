@@ -1,6 +1,7 @@
 // AttendanceTracker.java
 // Cute Attendance Tracker with Time In and E-Signature shown at startup and reset on every Submit.
-
+// Author: Alonzo, Trisha Mae 
+// BSIT-GD 1
 import java.awt.*;
 import java.time.LocalDateTime;
 import java.util.UUID;
